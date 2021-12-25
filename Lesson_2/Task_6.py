@@ -1,6 +1,6 @@
 sum = int(input("Введите количество товара: "))
 n = 1
-#product = []
+
 my_list = []
 analitics = {}
 while n <= sum:
